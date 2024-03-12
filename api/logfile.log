@@ -1,0 +1,29 @@
+{"level":"info","message":"[REQUEST] GET /"}
+{"level":"info","message":"[REQUEST] GET /favicon.ico"}
+{"level":"info","message":"[REQUEST] GET /user"}
+{"level":"info","message":"[REQUEST] GET /user"}
+{"level":"info","message":"[REQUEST] GET /user"}
+{"level":"info","message":"[REQUEST] GET /user"}
+{"level":"info","message":"[REQUEST] GET /user"}
+{"level":"info","message":"[REQUEST] [object Object] /user"}
+{"level":"info","message":"[REQUEST] GET /user"}
+{"level":"info","message":"[REQUEST] GET /user"}
+{"level":"info","message":"[RESPONSE] undefined undefined"}
+{"level":"info","message":"[REQUEST] GET /user"}
+{"level":"info","message":"[RESPONSE] [object Object] undefined"}
+{"level":"info","message":"[REQUEST] GET /user"}
+{"level":"info","message":"[RESPONSE] [object Object] undefined"}
+{"level":"info","message":"[REQUEST] GET /user"}
+{"level":"info","message":"[RESPONSE] [object Object] undefined"}
+{"level":"info","message":"[REQUEST] GET /user undefined"}
+{"level":"info","message":"[RESPONSE] [object Object] undefined"}
+{"level":"info","message":"[REQUEST] GET /user undefined"}
+{"level":"info","message":"[REQUEST] GET /user undefined"}
+{"level":"info","message":"[REQUEST] GET /user undefined"}
+{"level":"info","message":"[REQUEST] GET /user eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJ1c2VyX2lkIjoxLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzA4NTQ0NDEyfQ."}
+{"level":"info","message":"[REQUEST] GET [URL] /user eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJ1c2VyX2lkIjoxLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzA4NTQ0NDEyfQ."}
+{"level":"info","message":"[URL] /user eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJ1c2VyX2lkIjoxLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzA4NTQ0NDEyfQ."}
+{"level":"info","message":"[TOKEN] eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJ1c2VyX2lkIjoxLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzA4NTQ0NDEyfQ."}
+{"level":"info","message":"[REQUEST] GET"}
+{"level":"info","message":"[URL] /user"}
+{"level":"info","message":"[TOKEN] eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJ1c2VyX2lkIjoxLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzA4NTQ0NDEyfQ."}

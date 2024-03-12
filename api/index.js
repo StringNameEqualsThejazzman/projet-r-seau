@@ -7,14 +7,25 @@ const routerSecure = require('./self_modules/routes/routesSecure');
 const authorize = require('./self_modules/middlewares/authorize');
 const corsOptions = require('./self_modules/middlewares/cors');
 const cookieParser = require('cookie-parser'); 
+const logger = require('./self_modules/logger');
+const morgan = require('morgan');
 
 const app = express();
 
+app.use(morgan('dev'));
 app.use(express.urlencoded({extended:true}));
 app.use(bodyParser.json({limit:"1.1MB"}));
 app.use(express.static('public'));
 app.use(cookieParser()); 
 app.use(cors(corsOptions))
+
+app.use((req, res, next) => {
+    logger.info(`[REQUEST] ${req.method}`);
+    logger.info(`[URL] ${req.url}`);
+    logger.info(`[TOKEN] ${req.headers.token}`);
+    next();
+});
+
 app.use('/', router);
 app.use(authorize);
 app.use('/', routerSecure);
