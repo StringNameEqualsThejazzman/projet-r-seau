@@ -1,29 +1,81 @@
-{"level":"info","message":"[REQUEST] GET /"}
-{"level":"info","message":"[REQUEST] GET /favicon.ico"}
-{"level":"info","message":"[REQUEST] GET /user"}
-{"level":"info","message":"[REQUEST] GET /user"}
-{"level":"info","message":"[REQUEST] GET /user"}
-{"level":"info","message":"[REQUEST] GET /user"}
-{"level":"info","message":"[REQUEST] GET /user"}
-{"level":"info","message":"[REQUEST] [object Object] /user"}
-{"level":"info","message":"[REQUEST] GET /user"}
-{"level":"info","message":"[REQUEST] GET /user"}
-{"level":"info","message":"[RESPONSE] undefined undefined"}
-{"level":"info","message":"[REQUEST] GET /user"}
-{"level":"info","message":"[RESPONSE] [object Object] undefined"}
-{"level":"info","message":"[REQUEST] GET /user"}
-{"level":"info","message":"[RESPONSE] [object Object] undefined"}
-{"level":"info","message":"[REQUEST] GET /user"}
-{"level":"info","message":"[RESPONSE] [object Object] undefined"}
-{"level":"info","message":"[REQUEST] GET /user undefined"}
-{"level":"info","message":"[RESPONSE] [object Object] undefined"}
-{"level":"info","message":"[REQUEST] GET /user undefined"}
-{"level":"info","message":"[REQUEST] GET /user undefined"}
-{"level":"info","message":"[REQUEST] GET /user undefined"}
-{"level":"info","message":"[REQUEST] GET /user eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJ1c2VyX2lkIjoxLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzA4NTQ0NDEyfQ."}
-{"level":"info","message":"[REQUEST] GET [URL] /user eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJ1c2VyX2lkIjoxLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzA4NTQ0NDEyfQ."}
-{"level":"info","message":"[URL] /user eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJ1c2VyX2lkIjoxLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzA4NTQ0NDEyfQ."}
-{"level":"info","message":"[TOKEN] eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJ1c2VyX2lkIjoxLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzA4NTQ0NDEyfQ."}
-{"level":"info","message":"[REQUEST] GET"}
-{"level":"info","message":"[URL] /user"}
-{"level":"info","message":"[TOKEN] eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJ1c2VyX2lkIjoxLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzA4NTQ0NDEyfQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzU2MDAyfQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzU2MDAyfQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzU2MDAyfQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzU2MDAyfQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzU2MDAyfQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /blog [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzU2MDAyfQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzU2MzIyfQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzU2ODIwfQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : dc5a9c58-00ea-4b4f-aca2-182d1d9858a3"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /admin [TOKEN] : dc5a9c58-00ea-4b4f-aca2-182d1d9858a3"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : dc5a9c58-00ea-4b4f-aca2-182d1d9858a3"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : logs=1&id=dc5a9c58-00ea-4b4f-aca2-182d1d9858a3&created=1710356356083&expire=1710357817803"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzU3MDQwfQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoxLCJ1c2VyX3JvbGUiOiJhZG1pbiIsImlhdCI6MTcxMDM1NzA0MH0"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJ1c2VyX2lkIjoxLCJpYXQiOjE3MDg1NDQ0MTJ9."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJ1c2VyX2lkIjozLCJpYXQiOjE3MDg1NDQ0MTJ9."}
+deuxieme passage
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzYwMzMzfQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /blog [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzYwMzMzfQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /blog [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzYwMzMzfQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /blog [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzYwMzMzfQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzYwMzMzfQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: POST [URL] : /connection [TOKEN] : undefined"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzYwNTA4fQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /admin [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzYwD0_6LXj.J+z7"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzYwD0_6LXj.J+z7"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzYwD0_6LXj.J+z7"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : "}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : "}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : "}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /admin [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzYwD0_6LXj.J+z7."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzYwD0_6LXj.J+z7."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoyLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzYwNTA4fQ."}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoxLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzYwNTA4f"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /admin [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoxLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzYwNTA4f"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoxLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzYwNTA4f"}
+{"level":"info","message":"[DATE_TIME] Wed Mar 13 2024 19:50:46 GMT+0100 (heure normale d’Europe centrale) [REQUEST]: GET [URL] : /user [TOKEN] : eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VyX2lkIjoxLCJ1c2VyX3JvbGUiOiJ1c2VyIiwiaWF0IjoxNzEwMzYwNTA4fQ."}

@@ -12,17 +12,18 @@ const morgan = require('morgan');
 
 const app = express();
 
-app.use(morgan('dev'));
+const customFormat = ':date[iso] :method :url :status :response-time ms - :res[content-length]';
+app.use(morgan(customFormat));
 app.use(express.urlencoded({extended:true}));
 app.use(bodyParser.json({limit:"1.1MB"}));
 app.use(express.static('public'));
 app.use(cookieParser()); 
 app.use(cors(corsOptions))
+let d = Date(Date.now());
+a = d.toString()
 
 app.use((req, res, next) => {
-    logger.info(`[REQUEST] ${req.method}`);
-    logger.info(`[URL] ${req.url}`);
-    logger.info(`[TOKEN] ${req.headers.token}`);
+    logger.info(`[DATE_TIME] ${a} [REQUEST]: ${req.method} [URL] : ${req.url} [TOKEN] : ${req.headers.token}`);
     next();
 });
 

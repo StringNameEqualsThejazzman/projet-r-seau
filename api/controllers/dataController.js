@@ -2,7 +2,7 @@ const toolbox = require("../self_modules/toolbox");
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 const data = require("../data.json");
-const _ = require("lodash")
+const _ = require("lodash");
 let blogMessages = [];
 
 exports.connectUser = (req, res) => {

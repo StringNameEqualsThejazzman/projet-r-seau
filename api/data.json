@@ -2,9 +2,9 @@
     {
         "id" : 1,
         "mail" : "admin@admin.com",
-        "password" : "$2a$12$5n24YRkOX.AuoySD7sk8KuXKR8Ms.8/gZC2FPhnZCIwTi5H2wDNdO",
+        "password" : "$2a$12$5n24YRkOX.AuoySD7sk8KuXKRu8Ms.8/gZC2FPhnZCIwTi5H2wDNdO",
         "role" : "admin",
-        "secret" : "Je sais où se situe la chouette d'or !"
+        "secret" : "Bravo tu as reussi a nous hacker"
     },
     {
         "id" : 2,
@@ -16,7 +16,7 @@
     {
         "id" : 3,
         "mail" : "user2@gmail.com",
-        "password" : "$2a$12$XpY4UTp4NPrU9HrwT7HPp./WGyeNAAvpSEyc8brPxUixDEog7zxIi",
+        "password" : "$2a$12$XpY4UTp4NPrU9HrwT7HPp./hWGyeNAAvpSEyc8brPxUixDEog7zxIi",
         "role" : "user",
         "secret" : "Le caractère autotélique et systémique du capitalisme ne doit pas être absolutisé !"
     }
